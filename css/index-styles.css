@@ -1,3 +1,20 @@
+/***************Start of hero styles ***********/
+.hero-flex{
+  background-image: url('../images/eye-seattle-color-3.png');
+  height: 385px;
+  background-position: center;
+  background-size: cover;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.website-title{
+  color:white;
+  font-size:65px;
+  font-family: 'Pacifico', cursive;
+}
+/***************End of hero styles ***********/
+
 /***************Start of header styles ***********/
 
 /***************End of header styles ***********/
